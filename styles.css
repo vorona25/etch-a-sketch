@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    align-items: center;
+}
+
+.grid {
+    border: 1px solid;
+    border-color: black;
+    width: 500px;
+    height: 500px;
+    display: grid;
+}
